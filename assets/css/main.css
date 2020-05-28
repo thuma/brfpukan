@@ -2010,7 +2010,7 @@ ul.icons {
     width: 100%;
     z-index: 1; }
   #banner:after {
-    background: linear-gradient(135deg, #ce1b28 0%, #111111 74%);
+    background: linear-gradient(135deg, #1b63ce 0%, #111111 74%);
     content: ' ';
     display: block;
     height: 100%;
@@ -2642,7 +2642,7 @@ body {
     #heading .testimonials .content .credit strong {
       color: #ce1b28; }
   #heading:before {
-    background: linear-gradient(135deg, #ce1b28 0%, #111111 74%);
+    background: linear-gradient(135deg, #1b63ce 0%, #111111 74%);
     content: ' ';
     display: block;
     height: 100%;
